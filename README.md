@@ -1,12 +1,13 @@
 # Streamlit PDF Viewer
 
-A simple web application for viewing and interacting with PDF files, built with Streamlit.
+A simple web application for viewing and interacting with PDF files, built with Streamlit. Perfect for rapid development and easy deployment of PDF viewing solutions.
 
 ## Features
 
-- View PDF documents in a web interface
+- View PDF documents in a clean web interface
 - Built with Streamlit for rapid development
 - Minimal dependencies for easy deployment
+- Cross-platform compatibility
 
 ## Tech Stack
 
@@ -17,8 +18,8 @@ A simple web application for viewing and interacting with PDF files, built with 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/streamlit-pdf-viewer.git
-   cd streamlit-pdf-viewer
+   git clone https://github.com/yourusername/pdf-viewer.git
+   cd pdf-viewer
    ```
 
 2. Create and activate a virtual environment:
